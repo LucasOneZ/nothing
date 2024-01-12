@@ -1,0 +1,2 @@
+using Microsoft.Build.Construction
+var sln = SolutionFile.Parse(filename);
